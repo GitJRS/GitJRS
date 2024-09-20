@@ -18,7 +18,7 @@ I ✨ enjoy ✨ creative problem solving, automation solutions, app development,
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/johnrobertshafer/"><img align="left" src="https://raw.githubusercontent.com/GitJRS/GitJRS/main/5296501_linkedin_network_linkedin logo_icon.png" alt="John Robert Shafer | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/johnrobertshafer/"><img align="left" src="https://raw.githubusercontent.com/gitjrs/GitJRS/main/5296501_linkedin_network_linkedin logo_icon.png" alt="John Robert Shafer | LinkedIn" width="35px"/></a>
 
 <a href="mailto:jrshafer@gmail.com"><img align="left" src="https://raw.githubusercontent.com/GitJRS/GitJRS/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="John Robert Shafer | Gmail" width="35px"/></a>
 
