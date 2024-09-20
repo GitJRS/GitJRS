@@ -41,15 +41,8 @@ I ✨ enjoy ✨ creative problem solving, automation solutions, app development,
 
 ![](https://img.shields.io/badge/Platform-docker-informational?style=flat&logo=Docker&color=1D63ED&logoColor=1D63ED)
 
-
-
-
-
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=gitjrs)](https://github.com/GitJRS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)]
-view rawREADME.txt hosted with ❤ by GitHub
