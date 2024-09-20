@@ -4,8 +4,8 @@ Feel free to use my profile as a template. Cheers!
 
 -->
 
-### Hello there 👋 I'm **John Robert Shafer**
-I ✨ enjoy ✨ creative problem solving, automation solutions, app development, gaming, cinematic adventures, weightlifting, health, ancient and classical art, music, plus a lot of different foods!
+## Hello there 👋 I'm **John Robert Shafer**
+I ✨ enjoy ✨ creative problem solving, automation solutions, app development, gaming, cinematic adventures, weightlifting, health, history, ancient and classical art, music, plus a lot of different foods!
 
 - 🔭 I’m currently working on SwiftUI 💻 and iOS app development 📳 
 - 🌱 I’m currently learning SwiftUI and DevOps 🤖
@@ -18,11 +18,10 @@ I ✨ enjoy ✨ creative problem solving, automation solutions, app development,
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/johnrobertshafer/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="John Robert Shafer | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/johnrobertshafer/"><img align="left" src="https://raw.githubusercontent.com/gitjrs/gitjrs/main/5296501_linkedin_network_linkedin logo_icon.png" alt="John Robert Shafer | LinkedIn" width="35px"/></a>
 
-<a href="mailto:jrshafer@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="John Robert Shafer | Gmail" width="35px"/></a>
+<a href="mailto:jrshafer@gmail.com"><img align="left" src="https://raw.githubusercontent.com/gitjrs/gitjrs/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="John Robert Shafer | Gmail" width="35px"/></a>
 
-</br>
 
 ## 💼 Technical Skills
 
@@ -41,7 +40,6 @@ I ✨ enjoy ✨ creative problem solving, automation solutions, app development,
 
 ![](https://img.shields.io/badge/Platform-docker-informational?style=flat&logo=Docker&color=1D63ED&logoColor=1D63ED)
 
-## 📈 GitHub Stats 
 
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=gitjrs)](https://github.com/GitJRS)
 
