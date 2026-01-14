@@ -5,7 +5,7 @@ Feel free to use my profile as a template. Cheers!
 -->
 
 ## Hello there 👋 I'm **John Robert Shafer**
-I ✨ enjoy ✨ creative problem solving, automation solutions, app design & development, showing off my talents, gaming, cinematic adventures, weightlifting, health, history, ancient and classical art, music, plus exciting eating experiences!
+I ✨ enjoy ✨ creative problem solving, automation solutions, app design & development, showing off my talents, gaming, cinematic adventures, weightlifting and health, history, music, and FOOD!
 
 - 🔭 I’m currently working on SwiftUI 💻 and iOS app development 📳 
 - 🌱 I’m currently learning SwiftUI and DevOps 🤖
