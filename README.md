@@ -11,7 +11,7 @@ I ✨ enjoy ✨ creative problem solving, automation solutions, app design & dev
 - 🌱 I’m currently learning SwiftUI and DevOps 🤖
 - 🗺️ I’m looking to collaborate on new app and gaming ideas 🎲
 - 💬 Ask me about test automation ⚙️👩‍💻 , gaming 👾🎧 , and weightlifting 🏋️🥦
-- 📫 How to reach me: email 📧 JRSHAFER@gmail.com
+- 📫 How to reach me: email 📧 offwardsoft@gmail.com
 - 👨‍🚀 Pronouns: he/him 🕺
 - ⚡ Fun fact: I played ♠️ ♥️ poker ♣️ ♦️ professionally for seven years, pre-pandemic 🃏
 
